@@ -130,11 +130,6 @@ snake-html-learning.html
     ├── Educational content
     └── Event handlers
 ```
-## Screenshot of Game 
-<img src="Snake-Game.png" alt="Digital Balika" width="600"/>
-<img src="Gameover.png" alt="Digital Balika" width="600"/>
-<img src="Learning.png" alt="Digital Balika" width="600"/>
-
 
 
 
@@ -234,56 +229,9 @@ After playing this game, learners will:
 5. **Build** confidence in reading HTML code
 6. **Have** a foundation for further web development study
 
-## 🤝 Contributing
 
-Contributions are welcome! Here are ways you can help:
 
-### Ideas for Contribution
-- 🏷️ Add more HTML tags (forms, tables, semantic HTML)
-- 🌍 Translate to other languages
-- 🎨 Create alternative themes
-- 📱 Improve mobile controls
-- 🔊 Add sound effects
-- 🏅 Create badge system
-- 📈 Add progress saving (localStorage)
-- 🎯 Create difficulty levels
 
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see below for details:
-
-```
-MIT License
-
-Copyright (c) 2026 Snake HTML Learning Game
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-## 🌟 Acknowledgments
 
 ### Learning Resources Featured
 - [MDN Web Docs](https://developer.mozilla.org/) - Comprehensive web development documentation
@@ -303,36 +251,28 @@ This project was inspired by the need to make web development education more acc
 
 - **Issues**: Open an issue on GitHub
 - **Discussions**: Use GitHub Discussions for questions
-- **Feedback**: We'd love to hear how you're using this in education!
+- **Feedback**: I would love to hear how you're using this in education!
 
-## 🎯 Roadmap
+## Roadmap
 
-### Version 2.0 (Planned)
-- [ ] CSS learning mode
-- [ ] JavaScript basics integration
-- [ ] Multiplayer mode
-- [ ] Leaderboard system
-- [ ] Mobile app version
-- [ ] Progress tracking with localStorage
-- [ ] Achievement badges
-- [ ] Dark mode toggle
-- [ ] Accessibility improvements
-- [ ] Multi-language support
+
 
 ## 📸 Screenshots
 
 ### Game Interface
-**
+# Screenshot of Game 
+<img src="Snake-Game.png" alt="Digital Balika" width="600"/>
+
 
 ### Learning Panel
-*Add screenshot of the learning resources*
+<img src="Learning.png" alt="Digital Balika" width="600"/>
 
 ### Achievement Screen
-*Add screenshot of the game over achievements*
+<img src="Gameover.png" alt="Digital Balika" width="600"/>
 
 ---
 
-## ⭐ Show Your Support
+## Show Your Support
 
 If this project helped you learn HTML or you're using it in education, please:
 - ⭐ Star this repository
@@ -340,23 +280,7 @@ If this project helped you learn HTML or you're using it in education, please:
 - 📢 Share it with other learners
 - 💬 Provide feedback
 
-## 📚 Additional Resources
 
-Want to continue your web development journey?
-
-1. **HTML & CSS**
-   - [MDN Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
-   - [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-
-2. **JavaScript**
-   - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Challenge
-   - [Eloquent JavaScript](https://eloquentjavascript.net/) - Free book
-
-3. **Full Stack**
-   - [The Odin Project](https://www.theodinproject.com/)
-   - [Full Stack Open](https://fullstackopen.com/)
-
----
 
 **Made with ❤️ for learners everywhere**
 
