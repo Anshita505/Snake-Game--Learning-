@@ -130,8 +130,11 @@ snake-html-learning.html
     ├── Educational content
     └── Event handlers
 ```
-
+## Screenshot of Game 
 <img src="Snake-Game.png" alt="Digital Balika" width="600"/>
+<img src="Gameover.png" alt="Digital Balika" width="600"/>
+<img src="Learning.png" alt="Digital Balika" width="600"/>
+
 
 
 
@@ -174,7 +177,7 @@ Works on any static hosting:
 - Google Cloud Storage
 - Cloudflare Pages
 
-## 🎓 Usage in Education
+## Usage in Education
 
 ### For Teachers
 - **Classroom Activity** - Use as an icebreaker for HTML lessons
@@ -188,13 +191,7 @@ Works on any static hosting:
 - **Reinforce Knowledge** - Review HTML basics playfully
 - **Share Progress** - Screenshot achievements to track learning
 
-### For Coding Bootcamps
-- **Day 1 Activity** - Introduction to HTML concepts
-- **Review Sessions** - Quick refresher before assessments
-- **Team Competition** - Who can learn the most tags?
-- **Portfolio Piece** - Students can customize and showcase
-
-## 🎨 Customization
+##  Customization
 
 The game is built with a single HTML file, making it easy to customize:
 
