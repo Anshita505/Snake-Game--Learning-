@@ -130,7 +130,10 @@ snake-html-learning.html
     ├── Educational content
     └── Event handlers
 ```
-![Digital Balika Banner](images/Snake-Game.png )
+
+<img src="Snake-Game.png" alt="Digital Balika" width="600"/>
+
+
 
 ## 📦 Installation & Deployment
 
