@@ -1,6 +1,8 @@
 # 🐍 Snake Game - Learn HTML Basics
 
-An interactive educational game that teaches HTML fundamentals through classic Snake gameplay. Perfect for beginners who want to learn web development in a fun and engaging way!
+An **AI-assisted educational Snake game** built using AI to design and deploy interactive gameplay that teaches HTML fundamentals in a fun, hands-on way.
+Players collect HTML tags during gameplay, unlocking explanations, code examples, and curated learning resources from **MDN**, **W3Schools**, and **freeCodeCamp**.
+
 
 ![Game Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -133,7 +135,7 @@ snake-html-learning.html
 
 
 
-## 📦 Installation & Deployment
+## Installation & Deployment
 
 ### Local Usage
 1. **Download** the `index.html` file
@@ -153,24 +155,7 @@ snake-html-learning.html
 2. Get instant deployment URL
 3. Share with students!
 
-#### Vercel
-```bash
-# Install Vercel CLI
-npm i -g vercel
 
-# Deploy
-vercel snake-html-learning.html
-```
-
-#### Other Platforms
-Works on any static hosting:
-- GitHub Pages
-- Netlify
-- Vercel
-- Firebase Hosting
-- AWS S3
-- Google Cloud Storage
-- Cloudflare Pages
 
 ## Usage in Education
 
@@ -186,7 +171,7 @@ Works on any static hosting:
 - **Reinforce Knowledge** - Review HTML basics playfully
 - **Share Progress** - Screenshot achievements to track learning
 
-##  Customization
+## Customization
 
 The game is built with a single HTML file, making it easy to customize:
 
@@ -217,20 +202,6 @@ The game is built with a single HTML file, making it easy to customize:
 let speed = 150; // Lower = faster (default: 150)
 speed = Math.max(50, speed - 15); // Difficulty increase rate
 ```
-
-## 📊 Learning Outcomes
-
-After playing this game, learners will:
-
-1. **Understand** the purpose of 10 fundamental HTML tags
-2. **Recognize** HTML tag syntax and structure
-3. **Know** when to use each tag appropriately
-4. **Access** quality resources for continued learning
-5. **Build** confidence in reading HTML code
-6. **Have** a foundation for further web development study
-
-
-
 
 
 ### Learning Resources Featured
