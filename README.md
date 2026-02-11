@@ -130,11 +130,12 @@ snake-html-learning.html
     ├── Educational content
     └── Event handlers
 ```
+![Digital Balika Banner](images/Snake-Game.png )
 
 ## 📦 Installation & Deployment
 
 ### Local Usage
-1. **Download** the `snake-html-learning.html` file
+1. **Download** the `index.html` file
 2. **Double-click** to open in any modern web browser
 3. **Start playing** - No installation required!
 
@@ -144,7 +145,7 @@ snake-html-learning.html
 1. Fork this repository
 2. Go to Settings → Pages
 3. Select main branch as source
-4. Your game will be live at `https://yourusername.github.io/snake-html-learning/`
+4. Your game will be live at `https://yourus.github.io/snake-html-learning/`
 
 #### Netlify
 1. Drag and drop the HTML file to [Netlify Drop](https://app.netlify.com/drop)
@@ -321,7 +322,7 @@ This project was inspired by the need to make web development education more acc
 ## 📸 Screenshots
 
 ### Game Interface
-*Add screenshot showing the main game interface*
+**
 
 ### Learning Panel
 *Add screenshot of the learning resources*
